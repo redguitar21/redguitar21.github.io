@@ -8,9 +8,9 @@ function highlightPage() {
         if(currUrl.indexOf(linkurl) != -1) {
             links[i].className = "here";
         }
-
     }
 }
+
 
 
 addLoadEvent(highlightPage)

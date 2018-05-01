@@ -63,3 +63,23 @@ body {
     border: .2em solid #99cccc;
     height: 100%;
 }
+
+#about #header {
+    background-image: url("../images/back1.png");
+}
+
+#photos #header {
+    background-image: url("../images/back2.png");
+}
+
+#live #header {
+    background-image: url("../images/back3.jpg");
+}
+
+#contact #header {
+    background-image: url("../images/back4.jpg");
+}
+
+#photos #photolist li {
+    display: inline;
+}
