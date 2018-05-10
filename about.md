@@ -31,6 +31,6 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
-[redguitar21]: http://www.shishuguang.com/redguitar21
+[redguitar21]: http://www.shishuguang.com/redguitar
 [redguitar-weibo1]: https://weibo.com/u/2589942617?refer_flag=1005050010_&is_all=1
 [redguitar-weibo2]: https://weibo.com/u/1257847047
