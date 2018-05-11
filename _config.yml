@@ -30,6 +30,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - about.md
+  - folder.html
+
+show_excerpts: false   # 是否显示摘要
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
