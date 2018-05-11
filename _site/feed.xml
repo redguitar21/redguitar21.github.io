@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T01:57:10+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">你好，世界</title><link href="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="你好，世界" /><published>2018-05-10T19:01:07+08:00</published><updated>2018-05-10T19:01:07+08:00</updated><id>http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T18:00:33+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">面试小记</title><link href="http://localhost:4000/life/2018/05/11/interview_thought.html" rel="alternate" type="text/html" title="面试小记" /><published>2018-05-11T17:08:00+08:00</published><updated>2018-05-11T17:08:00+08:00</updated><id>http://localhost:4000/life/2018/05/11/interview_thought</id><content type="html" xml:base="http://localhost:4000/life/2018/05/11/interview_thought.html">&lt;p&gt;先描述一下刚刚收到的淘宝的技术官的电话面试吧&lt;br /&gt;
+&lt;strong&gt;问的问题主要有&lt;/strong&gt;：&lt;br /&gt;
+1、先介绍一下自己这几年技术方面的东西（这个技术官人不错，废话不多，直入主题，要求都是干货）。&lt;br /&gt;
+2、在&lt;code class=&quot;highlighter-rouge&quot;&gt;诺基亚&lt;/code&gt;做的java项目的技术细节，步步追问，问的很细，然后问性能的解决方案，架构上的不足的解决方案等等。&lt;br /&gt;
+3、诺基亚做的项目中最难的是哪一项。刚刚聊的技术实现按过程中，最复杂的是哪一项。具体介绍。&lt;br /&gt;
+4、&lt;code class=&quot;highlighter-rouge&quot;&gt;JVM&lt;/code&gt;相关：&lt;code class=&quot;highlighter-rouge&quot;&gt;GC&lt;/code&gt;等。&lt;code class=&quot;highlighter-rouge&quot;&gt;HashMap&lt;/code&gt;线程安全等。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/interview/Java.png&quot; alt=&quot;java&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;不得不说，这一次是一次非常专业的面试，想浑水摸鱼是不可能的。但不得不说，这是我这几天来，面的比较开心的一次。
+原因不是我答的好，相反，我后面很多东西没答出来，有些甚至只好说不知道。而是因为这是不涉及其它任何乱七八糟问题的一次单纯技术性面试。
+没有问我现在工资，然后以技术考核来压价。也没有问我为什么要转测试，然后再转开发。我这些问题回答的都想吐了。然后他一点都没问，我很感激。
+其实这应该是HR的问题，很多人越权了。我甚至遇过，第一轮小罗罗面我，都直接问我薪资期望的。然后又觉得我开的比他高那么多，直接在他那一层就给我否了。&lt;/p&gt;
+
+&lt;p&gt;其实今天下午出去也面了一家。我心里没底，因为Java的从业经验确实很短，对于目前社会上的各个IT公司所要求的种种技术的应用几乎是0经验。所以我觉得，希望不大，但又是抱着侥幸。&lt;br /&gt;
+侥幸什么的，就是他会看重我的其他东西———-潜力。我想几乎找不到这样的企业。所以只能说是碰碰运气。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/interview/mianshiji-1.jpg&quot; alt=&quot;interview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;其实我有C++的功底，对于Java语言根本不成问题。主要是对当前流行的架构，比如dubbo、zookeeper等等没有切实的使用体验，说不出道道来。故我没什么自信。
+但是，这次我转是必然的。我死也不想再做测试了。就算是自动化也好、工具平台的开发也好，我都不想去，很多情况下，这些说法都是幌子而已。
+我后端都如此碰壁，所以可想而知我的前端之路会多么坎坷。
+虽然在Boss直聘上挂上前端、后端、C/C++之后，前两者每天来找我的人都不下20个。都是不同的公司。
+一方面我考虑要不要下架我的这些求职意向，以免以后的工作机会都浪费掉了。
+二方面我又担心错过也许可能的某种特殊机会。&lt;/p&gt;
+
+&lt;p&gt;从另一个角度讲，我要考虑筛选绝大部分公司不去，因为这些公司去了都没意义。而很多是HR直接筛选完叫你去，根本没有通过技术官的检查，或者只是初步检查说你合适，但是现场，却
+仅仅考核了一些问题就觉得你没经验，但往往这些问题电话里就可以沟通，或者简历里就可以看出。比如我的java开发经验不足一年，为什么到现场了才跟我说我经验太少了。
+还有就是，我要考虑闭关还是怎么着，总之把一些基础补回来。通过技术论坛、看书，开源代码实践，做一些小例子，像阮一峰那样，我想那些东西也难不倒哪里去。
+那些Java的人普遍怕C++，我C++都不怕，还怕这个？我只是少了这些实践机会而已。所以，如果再三碰壁，发现目前的开发行业现状后，就索性突击这些方向好了。
+指望，一家公司培养你，在国内在杭州，几乎不太可能。这里没有像谷歌那么伟大的公司，他们把专业领域的只是看在第三，而更追求通才。更追求有头脑、有创意有智慧的人，发掘不一般的人。
+他们认为，某一领域的技术能力是容易掌握的，只要你智商具有平均水平，但是具有天生的&lt;code class=&quot;highlighter-rouge&quot;&gt;创新精英&lt;/code&gt;，就像极具天分的艺术家一样，是数一数二、风毛菱角、万里挑一的。&lt;/p&gt;
+
+&lt;p&gt;反观国内，那些公司看重第一位的绝对是你的工作经验，并且是工作经验里面的那些“词”。什么词呢，比如区块链，比如分布式，比如机器学习。假设他们招的是机器学习，那么你的专业里
+有机器学习这四个字，那么你就是如虎添翼、志在必得了。因为他们看到这与他们jd里面一样的字词的时候，甚至会达到颅内高潮，认为他们找到了真正的人才。可以这么说，他们跟那个词恋爱了，看到就会心动。
+又或者他们现在再用&lt;code class=&quot;highlighter-rouge&quot;&gt;dubbo&lt;/code&gt;+&lt;code class=&quot;highlighter-rouge&quot;&gt;zookeeper&lt;/code&gt;，那么你在你的简历上写上这些，他们就瞬间觉得你漂亮了，但是如果你说你了解这些，但是愿意学，他们则觉得你低人好几等，因为你不会。
+但是他们或许没有想过：1、他会的能力有多深，是爱好使然的深深钻研，还是浅尝辄止，只知皮毛而能扯蛋而已。
+这会与不会之间，也许只隔了一点点区别。即我以前工作中没接触过，而他以前因为工作关系不得不接触到一些。而他们会认为，他在工作中使用过，而我就算在业余再深入研究，也认为我是野狐禅。
+他们仿佛有某种崇拜，他们对很多东西贴了标签。即，他java有三年经验，所以他肯定比java只有一年经验的人好，丰富，能干。他曾经没有接触过这个但是愿意学，但是另一个人曾经在工作中接触过这个就肯定认为后者更强。
+还有，他曾经在阿里干过，所以技术绝对屌炸天，绝对高人一等。很多公司甚至看到BAT公司出来的员工，都有一种迷信，照单全收。&lt;/p&gt;
+
+&lt;p&gt;贴上标签之后，就造成僵化。对于人才的选拔就陷入&lt;code class=&quot;highlighter-rouge&quot;&gt;平庸&lt;/code&gt;，平庸的人才进去之后造成更平庸的招聘，结果使企业裹足不前。
+世界上伟大的企业不多，google我认为是最出色的一家，他们对人才的理念是非常开放的，只要是人才他们不惜一切代价，他们爱人才如命，他们会为找到某一个州的人才，专门去那边开个办公室，让他们办公。
+他们对人才的定义绝不会是专业领域这么狭隘，而是通才，极具魅力的天才，这些天才需要慧眼识珠，也许你平时只会觉得他是个怪咖。也许就是你一直小看的人。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/interview/mianshiji-4.jpg&quot; alt=&quot;interview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/interview/mianshiji-3.jpg&quot; alt=&quot;interview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;越扯越远。
+关于最近这些企业的面试记录，在印象笔记中的另一篇文章，有较为详细的叙述。此处只作为今天感想的一些点做分散的分析。
+总之我感觉，在这里，面的越多会越累。很多企业叫你去现场面试很随意。因为毕竟是我们跑腿，他们几乎零成本。而问来问去的问题很平庸，选拔人才的眼光平庸。
+而更重要的是，自己宝贵的时间，平时都是分秒必争的，现在却大段的白白花在上面。比如今天一下午就这么过去了。路上花了两小时。
+所以，我现在面试，尽量选择低效时间去。高效时间我要集中精力学习一切我感兴趣的东西。&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/interview/mianshiji-2.jpg&quot; alt=&quot;interview&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                                                      ---rsg 5/11 17:42  写作时长34分钟
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">先描述一下刚刚收到的淘宝的技术官的电话面试吧 问的问题主要有： 1、先介绍一下自己这几年技术方面的东西（这个技术官人不错，废话不多，直入主题，要求都是干货）。 2、在诺基亚做的java项目的技术细节，步步追问，问的很细，然后问性能的解决方案，架构上的不足的解决方案等等。 3、诺基亚做的项目中最难的是哪一项。刚刚聊的技术实现按过程中，最复杂的是哪一项。具体介绍。 4、JVM相关：GC等。HashMap线程安全等。</summary></entry><entry><title type="html">你好，世界</title><link href="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="你好，世界" /><published>2018-05-10T19:01:07+08:00</published><updated>2018-05-10T19:01:07+08:00</updated><id>http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
