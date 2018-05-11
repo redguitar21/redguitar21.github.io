@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T22:45:14+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">《软件测试-经验与教训》读书笔记</title><link href="http://localhost:4000/test/2018/05/11/test-blog-record.html" rel="alternate" type="text/html" title="《软件测试-经验与教训》读书笔记" /><published>2018-05-11T20:07:00+08:00</published><updated>2018-05-11T20:07:00+08:00</updated><id>http://localhost:4000/test/2018/05/11/test-blog-record</id><content type="html" xml:base="http://localhost:4000/test/2018/05/11/test-blog-record.html">&lt;p&gt;一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T23:08:43+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">《软件测试-经验与教训》读书笔记</title><link href="http://localhost:4000/test/2018/05/11/test-blog-record.html" rel="alternate" type="text/html" title="《软件测试-经验与教训》读书笔记" /><published>2018-05-11T20:07:00+08:00</published><updated>2018-05-11T20:07:00+08:00</updated><id>http://localhost:4000/test/2018/05/11/test-blog-record</id><content type="html" xml:base="http://localhost:4000/test/2018/05/11/test-blog-record.html">&lt;p&gt;一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。
 没想到过了也许一个月后，我居然毅然决然的想离开这个行业。
-说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会意识到，自己将最终明确的意识到，自己永远也不应该再进入这个行业。
-也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定转了，必须转。
+说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会知道，自己将最终明确的决定，永远也不应该再进入这个行业。
+也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定了：必须转。
 虽然阵痛会很长，转型过程会很痛苦、艰难，但我非转不可。&lt;/p&gt;
 
-&lt;p&gt;但是呢，那些天，已经最近这阵子早上起来，每天上班前花一个半小时时间看书，包括这些测试书，对我的影响很大。
-虽然不做测试行业了，但是这些当今世界上测势界为数不多的几位软件测试业的泰山北斗的真知灼见，仍使我大受震动。所学到的绝不仅仅只是专业领域，而是涉及到人生的方方面面。
+&lt;p&gt;但是呢，那些天，以及最近这阵子早上起来，在上班前都会花一个半小时时间看书，包括这些测试书，对我的影响很大。
+虽然不做测试行业了，但是这些当今世界上测势界为数不多的几位泰山北斗的真知灼见，仍使我大受震动。所学到的绝不仅仅只是专业领域，而是涉及到人生的方方面面。
 这也正就是google所渴望的创意精英们。向这几位泰山北斗致敬。
 他们分别是&lt;code class=&quot;highlighter-rouge&quot;&gt;Cem Kaner&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;James Bach&lt;/code&gt;（另外一位James将在另一篇文章中介绍）、&lt;code class=&quot;highlighter-rouge&quot;&gt;Bret Pettichord&lt;/code&gt;。&lt;/p&gt;
 
@@ -19,7 +19,7 @@
   &lt;p&gt;James Bach&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/test1/pettichord.jpg&quot; alt=&quot;Bret Pettichord&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/test1/Pettichord.jpg&quot; alt=&quot;Bret Pettichord&quot; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Bret Pettichord&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -104,7 +104,7 @@
 《狂野中的认知》&lt;br /&gt;
 《理论与证据：科学与推理的能力的开发》&lt;br /&gt;
 《通用系统思考论》&lt;br /&gt;
-《探索数据分析》&lt;/p&gt;</content><author><name>石曙光</name></author><summary type="html">一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。 没想到过了也许一个月后，我居然毅然决然的想离开这个行业。 说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会意识到，自己将最终明确的意识到，自己永远也不应该再进入这个行业。 也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定转了，必须转。 虽然阵痛会很长，转型过程会很痛苦、艰难，但我非转不可。</summary></entry><entry><title type="html">面试小记</title><link href="http://localhost:4000/life/2018/05/11/interview_thought.html" rel="alternate" type="text/html" title="面试小记" /><published>2018-05-11T17:08:00+08:00</published><updated>2018-05-11T17:08:00+08:00</updated><id>http://localhost:4000/life/2018/05/11/interview_thought</id><content type="html" xml:base="http://localhost:4000/life/2018/05/11/interview_thought.html">&lt;p&gt;先描述一下刚刚收到的淘宝的技术官的电话面试吧&lt;br /&gt;
+《探索数据分析》&lt;/p&gt;</content><author><name>石曙光</name></author><summary type="html">一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。 没想到过了也许一个月后，我居然毅然决然的想离开这个行业。 说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会知道，自己将最终明确的决定，永远也不应该再进入这个行业。 也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定了：必须转。 虽然阵痛会很长，转型过程会很痛苦、艰难，但我非转不可。</summary></entry><entry><title type="html">面试小记</title><link href="http://localhost:4000/life/2018/05/11/interview_thought.html" rel="alternate" type="text/html" title="面试小记" /><published>2018-05-11T17:08:00+08:00</published><updated>2018-05-11T17:08:00+08:00</updated><id>http://localhost:4000/life/2018/05/11/interview_thought</id><content type="html" xml:base="http://localhost:4000/life/2018/05/11/interview_thought.html">&lt;p&gt;先描述一下刚刚收到的淘宝的技术官的电话面试吧&lt;br /&gt;
 &lt;strong&gt;问的问题主要有&lt;/strong&gt;：&lt;br /&gt;
 1、先介绍一下自己这几年技术方面的东西（这个技术官人不错，废话不多，直入主题，要求都是干货）。&lt;br /&gt;
 2、在&lt;code class=&quot;highlighter-rouge&quot;&gt;诺基亚&lt;/code&gt;做的java项目的技术细节，步步追问，问的很细，然后问性能的解决方案，架构上的不足的解决方案等等。&lt;br /&gt;
