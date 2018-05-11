@@ -3,6 +3,7 @@ layout: post
 title:  "面试小记"
 date:   2018-05-11 17:08:00 +0800
 categories: life
+author: 石曙光
 ---
 
 先描述一下刚刚收到的淘宝的技术官的电话面试吧  

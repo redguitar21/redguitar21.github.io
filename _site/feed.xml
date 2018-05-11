@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T18:16:32+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">面试小记</title><link href="http://localhost:4000/life/2018/05/11/interview_thought.html" rel="alternate" type="text/html" title="面试小记" /><published>2018-05-11T17:08:00+08:00</published><updated>2018-05-11T17:08:00+08:00</updated><id>http://localhost:4000/life/2018/05/11/interview_thought</id><content type="html" xml:base="http://localhost:4000/life/2018/05/11/interview_thought.html">&lt;p&gt;先描述一下刚刚收到的淘宝的技术官的电话面试吧&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-11T22:45:14+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">《软件测试-经验与教训》读书笔记</title><link href="http://localhost:4000/test/2018/05/11/test-blog-record.html" rel="alternate" type="text/html" title="《软件测试-经验与教训》读书笔记" /><published>2018-05-11T20:07:00+08:00</published><updated>2018-05-11T20:07:00+08:00</updated><id>http://localhost:4000/test/2018/05/11/test-blog-record</id><content type="html" xml:base="http://localhost:4000/test/2018/05/11/test-blog-record.html">&lt;p&gt;一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。
+没想到过了也许一个月后，我居然毅然决然的想离开这个行业。
+说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会意识到，自己将最终明确的意识到，自己永远也不应该再进入这个行业。
+也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定转了，必须转。
+虽然阵痛会很长，转型过程会很痛苦、艰难，但我非转不可。&lt;/p&gt;
+
+&lt;p&gt;但是呢，那些天，已经最近这阵子早上起来，每天上班前花一个半小时时间看书，包括这些测试书，对我的影响很大。
+虽然不做测试行业了，但是这些当今世界上测势界为数不多的几位软件测试业的泰山北斗的真知灼见，仍使我大受震动。所学到的绝不仅仅只是专业领域，而是涉及到人生的方方面面。
+这也正就是google所渴望的创意精英们。向这几位泰山北斗致敬。
+他们分别是&lt;code class=&quot;highlighter-rouge&quot;&gt;Cem Kaner&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;James Bach&lt;/code&gt;（另外一位James将在另一篇文章中介绍）、&lt;code class=&quot;highlighter-rouge&quot;&gt;Bret Pettichord&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/test1/kanner.jpg&quot; alt=&quot;Cem Kaner&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Cem Kaner&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/test1/jamesteaching.jpg&quot; alt=&quot;James Bach&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;James Bach&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/test1/pettichord.jpg&quot; alt=&quot;Bret Pettichord&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Bret Pettichord&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;也许，最广泛采用的手段仍是专门定制的测试，即依靠测试员的技能和直觉（探索性测试）&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;对于这件关键工作，我们要从头至尾地在一个项目中逐渐改进，一个项目一个项目的改进。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;我们的工作就是探索。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;测试就是要找到信息。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;测试员要与自己的经历协商使命问题，并明确使命。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;告诉项目经历自己能做什么，不能做什么。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;特别是到了项目要结束的时候。要以明确、简洁的词汇编写测试报告，以便执行经历能够感到有做出决策的依据。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;首先测试经过变更的部分  
+首先测试核心功能  
+首先测试能力  
+首先测试常见情况  
+首先测试影响最大的问题  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;理想情况是，程序员为了修改测试员找出的问题忙的团团转，使程序员，而不是测试员，成为项目的瓶颈。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;数学和科学推理过程是探索式的，而不是脚本化的。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;问题是没有想象出测试的总体大纲&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;黑盒测试的优势在于测试员可能与程序员的思考不同，因此可能测出程序员所遗漏的风险。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;要研究建模问题。测试员对建模艺术越精通，越能更好的测试。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;探索要求大量思索&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;需要前向、后向、侧向思考。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;测试的目的是显示产品失败，要比显示产品正常更有力。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;产品应该具备或满足的任何质量或者条件都是需求。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;有时复杂性可能是无法抗拒的。测试员的意志可能会被击垮。因此，当要测试复杂和使人畏惧的功能集合时，可间歇进行。人的头脑具有处理复杂问题的惊人能力，但是不要指望马上就能理解复杂产品。
+可试着先研究复杂产品30分钟或一个小时，然后停下来干点别的。这就是陷入与退出（plunge in and quit）法。不要担心在这段不长的时间内效率不高。如果觉得问题太多，则尽快退出。
+经过几个轮次的陷入与退出，就会开始明白产品的模式和轮廓，很快就会在头脑中更系统、更具体地测试和研究策略。这种方法很神奇。最终，会掌握足够的知识，以设计全面的测试计划。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;未完待续….
+[24]&lt;/p&gt;
+
+&lt;p&gt;推荐的书:&lt;br /&gt;
+《批判性思维的工具：心理学的元思想》&lt;br /&gt;
+《思考与决策》&lt;br /&gt;
+《研究的技巧》&lt;br /&gt;
+《狂野中的认知》&lt;br /&gt;
+《理论与证据：科学与推理的能力的开发》&lt;br /&gt;
+《通用系统思考论》&lt;br /&gt;
+《探索数据分析》&lt;/p&gt;</content><author><name>石曙光</name></author><summary type="html">一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。 没想到过了也许一个月后，我居然毅然决然的想离开这个行业。 说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会意识到，自己将最终明确的意识到，自己永远也不应该再进入这个行业。 也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定转了，必须转。 虽然阵痛会很长，转型过程会很痛苦、艰难，但我非转不可。</summary></entry><entry><title type="html">面试小记</title><link href="http://localhost:4000/life/2018/05/11/interview_thought.html" rel="alternate" type="text/html" title="面试小记" /><published>2018-05-11T17:08:00+08:00</published><updated>2018-05-11T17:08:00+08:00</updated><id>http://localhost:4000/life/2018/05/11/interview_thought</id><content type="html" xml:base="http://localhost:4000/life/2018/05/11/interview_thought.html">&lt;p&gt;先描述一下刚刚收到的淘宝的技术官的电话面试吧&lt;br /&gt;
 &lt;strong&gt;问的问题主要有&lt;/strong&gt;：&lt;br /&gt;
 1、先介绍一下自己这几年技术方面的东西（这个技术官人不错，废话不多，直入主题，要求都是干货）。&lt;br /&gt;
 2、在&lt;code class=&quot;highlighter-rouge&quot;&gt;诺基亚&lt;/code&gt;做的java项目的技术细节，步步追问，问的很细，然后问性能的解决方案，架构上的不足的解决方案等等。&lt;br /&gt;
@@ -57,7 +163,7 @@
 &lt;img src=&quot;http://localhost:4000/assets/images/interview/mianshiji-2.jpg&quot; alt=&quot;interview&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                    ---rsg 5/11 17:42  写作时长34分钟
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">先描述一下刚刚收到的淘宝的技术官的电话面试吧 问的问题主要有： 1、先介绍一下自己这几年技术方面的东西（这个技术官人不错，废话不多，直入主题，要求都是干货）。 2、在诺基亚做的java项目的技术细节，步步追问，问的很细，然后问性能的解决方案，架构上的不足的解决方案等等。 3、诺基亚做的项目中最难的是哪一项。刚刚聊的技术实现按过程中，最复杂的是哪一项。具体介绍。 4、JVM相关：GC等。HashMap线程安全等。</summary></entry><entry><title type="html">Welcome to My World</title><link href="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-my-world.html" rel="alternate" type="text/html" title="Welcome to My World" /><published>2018-05-10T23:59:00+08:00</published><updated>2018-05-10T23:59:00+08:00</updated><id>http://localhost:4000/jekyll/update/2018/05/10/welcome-to-my-world</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-my-world.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/elvis-1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>石曙光</name></author><summary type="html">先描述一下刚刚收到的淘宝的技术官的电话面试吧 问的问题主要有： 1、先介绍一下自己这几年技术方面的东西（这个技术官人不错，废话不多，直入主题，要求都是干货）。 2、在诺基亚做的java项目的技术细节，步步追问，问的很细，然后问性能的解决方案，架构上的不足的解决方案等等。 3、诺基亚做的项目中最难的是哪一项。刚刚聊的技术实现按过程中，最复杂的是哪一项。具体介绍。 4、JVM相关：GC等。HashMap线程安全等。</summary></entry><entry><title type="html">Welcome to My World</title><link href="http://localhost:4000/life/2018/05/10/welcome-to-my-world.html" rel="alternate" type="text/html" title="Welcome to My World" /><published>2018-05-10T23:59:00+08:00</published><updated>2018-05-10T23:59:00+08:00</updated><id>http://localhost:4000/life/2018/05/10/welcome-to-my-world</id><content type="html" xml:base="http://localhost:4000/life/2018/05/10/welcome-to-my-world.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/elvis-1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;猫王&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -74,7 +180,7 @@
 旋律好，歌词好，吉他好，唱的更好。猫王那浑厚清澈的嗓音，真是无人能出其右。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/elvis-james.jpg&quot; alt=&quot;James&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;Elvis Presley（左），James Burton（右）&lt;/center&gt;</content><author><name></name></author><summary type="html">猫王</summary></entry><entry><title type="html">你好，世界</title><link href="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="你好，世界" /><published>2018-05-10T19:01:07+08:00</published><updated>2018-05-10T19:01:07+08:00</updated><id>http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;center&gt;Elvis Presley（左），James Burton（右）&lt;/center&gt;</content><author><name>石曙光</name></author><summary type="html">猫王</summary></entry><entry><title type="html">你好，世界</title><link href="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="你好，世界" /><published>2018-05-10T19:01:07+08:00</published><updated>2018-05-10T19:01:07+08:00</updated><id>http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -93,4 +199,4 @@
   &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hi&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;C语言是一切语言的基石，&lt;code class=&quot;highlighter-rouge&quot;&gt;C++&lt;/code&gt;就诞生于它，而&lt;a href=&quot;https://blog.csdn.net/piantoutongyang&quot;&gt;Java&lt;/a&gt;起源于C++。&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;C语言是一切语言的基石，&lt;code class=&quot;highlighter-rouge&quot;&gt;C++&lt;/code&gt;就诞生于它，而&lt;a href=&quot;https://blog.csdn.net/piantoutongyang&quot;&gt;Java&lt;/a&gt;起源于C++。&lt;/p&gt;</content><author><name>石曙光</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>

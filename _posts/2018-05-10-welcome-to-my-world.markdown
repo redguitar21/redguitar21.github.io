@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome to My World"
 date:   2018-05-10 23:59:00 +0800
-categories: jekyll update
+categories: life
+author: 石曙光
 ---
 ![image]({{ site.url }}/assets/images/elvis-1.jpg)
 <center>猫王</center>
