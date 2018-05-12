@@ -13,7 +13,25 @@ permalink: /folder/
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
 {% assign sorted_posts = category[1] | reversed %}
-<h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
+
+{% if category[0] == "jekyll" %}
+  {% assign myCat = "其它" %}
+{% endif %}
+
+{% if category[0] == "life" %}
+  {% assign myCat = "人生" %}
+{% endif %}
+
+{% if category[0] == "front-end" %}
+  {% assign myCat = "前端技术" %}
+{% endif %}
+
+{% if category[0] == "test" %}
+  {% assign myCat = "测试" %}
+{% endif %}
+
+
+<h4 id="{{category[0] | uri_escape | downcase }}">{{myCat | capitalize}}</h4>
 <ul>
   {% for post in sorted_posts %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{ post.date | date:"%Y/%m/%d"}} {{  post.title }}</a></li>
