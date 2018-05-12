@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-12T01:20:33+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">《软件测试-经验与教训》读书笔记</title><link href="http://localhost:4000/test/2018/05/11/test-blog-record.html" rel="alternate" type="text/html" title="《软件测试-经验与教训》读书笔记" /><published>2018-05-11T20:07:00+08:00</published><updated>2018-05-11T20:07:00+08:00</updated><id>http://localhost:4000/test/2018/05/11/test-blog-record</id><content type="html" xml:base="http://localhost:4000/test/2018/05/11/test-blog-record.html">&lt;p&gt;一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-12T23:10:56+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">失败的成功</title><link href="http://localhost:4000/life/2018/05/12/failed-but-win.html" rel="alternate" type="text/html" title="失败的成功" /><published>2018-05-12T22:54:00+08:00</published><updated>2018-05-12T22:54:00+08:00</updated><id>http://localhost:4000/life/2018/05/12/failed-but-win</id><content type="html" xml:base="http://localhost:4000/life/2018/05/12/failed-but-win.html">&lt;p&gt;(转)原作者：&lt;a href=&quot;http://www.ruanyifeng.com/blog/2010/09/getting_rejected.html&quot;&gt;阮一峰&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在&lt;code class=&quot;highlighter-rouge&quot;&gt;阮一峰&lt;/code&gt;的博客上看到一篇文章(事实上我今天看了很多篇，都很喜欢)，深受感动和震撼，觉得写得真好。特别是现阶段，对我的影响可谓很大。
+标题是我新冠的，原文请见上面链接。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;昨天，先是看到一个老外，说了一句很震撼的话。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;你个人的项目，应该有四分之一会失败，否则就说明你的冒险精神不够。&quot;
+
+(Expect and hope that a quarter of your projects fail. If not, you're not taking enough risks.
+ --Adam Smith)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我心里一动，心想这些天，我是不是把个人的失败看得太重了？&lt;/p&gt;
+
+&lt;p&gt;失败完全可以理解成积极进取的结果，只有生命力充沛的人，才可能会有一次又一次的失败。一味地恐惧失败，只会让自己畏首畏尾，丧失进取心。&lt;/p&gt;
+
+&lt;p&gt;没料到，几个小时之后，创业家Chris Dixon也谈到了这个话题。&lt;/p&gt;
+
+&lt;p&gt;他说：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;八年前，找工作时，我四处碰壁。投了几百份简历，一无所获。大公司不给我面试机会，风投公司说
+他们只要有经验的人，而创业公司那时正在大批裁员。宏观经济糟透了，我自己的领域（互联网消费）
+一落千丈，我的简历又缺乏亮点，于是就一次又一次地被拒绝。&quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;但是，Chris Dixon后来感到，这一段经历对自己职业生涯的帮助最大。为什么？&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;因为这些挫折让我的脸皮变厚了。
+
+我开始意识到，雇主只是拒绝我的简历，而不是拒绝我这个人。既然不是对个人的否定，我又害怕失去
+什么呢？所以，我就更加大胆（或者说更加厚脸皮）地去找工作了。  
+
+最后，终于有一家公司愿意雇佣我（感谢他们不看重我的简历），此后的一切都很顺利，我走上了事业
+起飞的大道。&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;他得出了结论：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;遭受挫折，并不是坏事。因为，人生的最终结果是一个极大值函数（由所有尝试中最成功的一次决定），
+而不是一个平均值函数。
+
+即使现在，我每天在生活中，还是会遭到拒绝。朋友想安慰我，但是我却要告诉他：之所以会这样，
+只是因为我在不停尝试。
+
+如果你不是每天被人拒绝，那就说明你的人生目标不够远大。&quot;
+
+（If you aren't getting rejected on a daily basis, your goals aren't ambitious enough.）
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;读到最后一句话，我的心豁然开朗。这个夏天挥之不去的一些烦恼，顿时平静了。&lt;/p&gt;
+
+&lt;p&gt;丘吉尔说过，”所谓成功，就是不停地经历失败，并且始终保持热情。”（Success is going from failure to failure without losing enthusiasm.）一次又一次地被拒绝，是你的勇气和进取心的最好证明。它们决定了你可以走多远，把你和那些决心放弃的人拉开差距。&lt;/p&gt;
+
+&lt;p&gt;所以，不要害怕被拒绝，这其实是对你的肯定和褒扬。&lt;/p&gt;
+
+&lt;p&gt;（完）&lt;/p&gt;</content><author><name></name></author><summary type="html">(转)原作者：阮一峰</summary></entry><entry><title type="html">《软件测试-经验与教训》读书笔记</title><link href="http://localhost:4000/test/2018/05/11/test-blog-record.html" rel="alternate" type="text/html" title="《软件测试-经验与教训》读书笔记" /><published>2018-05-11T20:07:00+08:00</published><updated>2018-05-11T20:07:00+08:00</updated><id>http://localhost:4000/test/2018/05/11/test-blog-record</id><content type="html" xml:base="http://localhost:4000/test/2018/05/11/test-blog-record.html">&lt;p&gt;一个月前，我是何等雄心壮志，想向软件测试业的泰山北斗学习，然后自己成为国内数一数二的测试学者。
 没想到过了也许一个月后，我居然毅然决然的想离开这个行业。
 说来很神奇，人生有很多巧合，但是没有后悔药。如果我当时不离开诺基亚，则怎么也不会知道，自己将最终明确的决定，永远也不应该再进入这个行业。
 也就是说，以前混沌的没想清楚的事情，现在非常果断、明确、清晰的有了自己的概念。有了自己的定论，这是自己思考的结果。所以就毅然决定了：必须转。
