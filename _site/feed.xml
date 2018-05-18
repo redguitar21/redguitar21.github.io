@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-13T00:06:59+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">前端书籍推荐</title><link href="http://localhost:4000/front-end/2018/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="前端书籍推荐" /><published>2018-05-12T23:26:07+08:00</published><updated>2018-05-12T23:26:07+08:00</updated><id>http://localhost:4000/front-end/2018/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/front-end/2018/05/12/welcome-to-jekyll.html">&lt;p&gt;以下是我从各大网站精心搜罗筛选，得到的几部前端工程师的极优秀书籍。包含入门级和进阶级的。但大部分书都是适合初学者使用（我一直相信一部伟大的书是能够让一个有心的初学者看懂并深入的）。我希望以后写几篇这样的文章，涵盖前后端以及C++、Go等各大语言、技术的全面书籍，做到这个书单能够作为一个路径图，看完这些书，有灵性者能够全面成长为一个优秀的工程师。所以所选书籍必须是优选中的优选，是真正伟大的书，历经考验的书。也是各界泰斗和创意精英新秀的书。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-18T10:40:22+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">幸福的感觉</title><link href="http://localhost:4000/life/2018/05/15/summer-wind-feel.html" rel="alternate" type="text/html" title="幸福的感觉" /><published>2018-05-15T16:54:00+08:00</published><updated>2018-05-15T16:54:00+08:00</updated><id>http://localhost:4000/life/2018/05/15/summer-wind-feel</id><content type="html" xml:base="http://localhost:4000/life/2018/05/15/summer-wind-feel.html">&lt;p&gt;夏天&lt;br /&gt;
+裸露的手臂和腿在自然凉爽的风或者是空调加电风扇的作用下，&lt;br /&gt;
+会产生一种奇异的跨世纪（跨世代）的感觉，&lt;br /&gt;
+也许是因为我的童年是上个世纪。&lt;/p&gt;
+
+&lt;p&gt;总让我微微想起，&lt;br /&gt;
+哦不，不只是想起， &lt;br /&gt;
+而是感受到童年那时候夏天的感觉，和味道，&lt;br /&gt;
+还有气息。&lt;br /&gt;
+当然，最重要的，还有画面。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这种感觉可谓幸福。&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">夏天 裸露的手臂和腿在自然凉爽的风或者是空调加电风扇的作用下， 会产生一种奇异的跨世纪（跨世代）的感觉， 也许是因为我的童年是上个世纪。</summary></entry><entry><title type="html">面试小记3（感想）</title><link href="http://localhost:4000/life/2018/05/15/interview-thought3.html" rel="alternate" type="text/html" title="面试小记3（感想）" /><published>2018-05-15T10:14:00+08:00</published><updated>2018-05-15T10:14:00+08:00</updated><id>http://localhost:4000/life/2018/05/15/interview-thought3</id><content type="html" xml:base="http://localhost:4000/life/2018/05/15/interview-thought3.html">&lt;p&gt;这几天面试给我很大的一点感触是：文化开发的企业或者说是外企，往往不会对我以往工作经历中职位的变动，编程语言的变化说三道四、横加指责，他们甚至不会提到这一点。而文化闭塞的大小公司，甚至创业型公司，却往往认为我目标不够明确，他们把这件事扩大到“生死存亡”的地步，认为我切换语言好似见不得人的事或者说是人生中的巨大转折以至于他们不理解或者不认同或者怀疑这种转变，担心或者明显认为这些都是坏的。&lt;/p&gt;
+
+&lt;p&gt;这是何其愚蠢。&lt;br /&gt;
+我从来没把转换语言当回事。&lt;br /&gt;
+这真是小事一桩。&lt;br /&gt;
+而思维禁锢的人居然把好事当坏事，把灵活聪明的人当傻子，把无能害怕变革之辈当天才。&lt;br /&gt;
+真是滑天下之大稽。&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;这也可以看出，这种人和观念的普遍存在跟公司大小没关系，跟企业文化和人有巨大关系。  
+比如昨天的海康，和今天的爬虫公司。  
+给我都是这种不好的印象。因为他们都认为，使用过多种语言是不好的事，参与过多重职位多种行业都是不好的事。  
+他们大概不知道，谷歌期望的恰恰是这种人才，涉足过别的领域，能够带来新的东西。&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;而事实上，谷歌比他们成就上高一万倍，称得上&lt;code class=&quot;highlighter-rouge&quot;&gt;伟大&lt;/code&gt;。而他们，都是侏儒。&lt;/p&gt;</content><author><name></name></author><summary type="html">这几天面试给我很大的一点感触是：文化开发的企业或者说是外企，往往不会对我以往工作经历中职位的变动，编程语言的变化说三道四、横加指责，他们甚至不会提到这一点。而文化闭塞的大小公司，甚至创业型公司，却往往认为我目标不够明确，他们把这件事扩大到“生死存亡”的地步，认为我切换语言好似见不得人的事或者说是人生中的巨大转折以至于他们不理解或者不认同或者怀疑这种转变，担心或者明显认为这些都是坏的。 这是何其愚蠢。 我从来没把转换语言当回事。 这真是小事一桩。 而思维禁锢的人居然把好事当坏事，把灵活聪明的人当傻子，把无能害怕变革之辈当天才。 真是滑天下之大稽。</summary></entry><entry><title type="html">面试小记2（插图明天补上）</title><link href="http://localhost:4000/life/2018/05/14/interview-thought2.html" rel="alternate" type="text/html" title="面试小记2（插图明天补上）" /><published>2018-05-14T20:54:00+08:00</published><updated>2018-05-14T20:54:00+08:00</updated><id>http://localhost:4000/life/2018/05/14/interview-thought2</id><content type="html" xml:base="http://localhost:4000/life/2018/05/14/interview-thought2.html">&lt;p&gt;今天面了两家公司&lt;br /&gt;
+第一家勉强撑过去，第二家被那个所谓技术总监虐的很惨&lt;/p&gt;
+
+&lt;p&gt;第一家是海康威视，去的是他们的新园区，真他妈漂亮，崭新光亮的高楼大厦，后来我发现附近还有一幢，再加上老原区就有三处了。&lt;/p&gt;
+
+&lt;p&gt;海康是两个面试官面我，oh天总算没有移动那么吊儿郎当。但是看他们两个也不是省油的灯。一个是黑乎乎的，另一个白一点但是脸颊很瘦，甚至是凹进去的。年龄都是35岁以上（感觉）。&lt;/p&gt;
+
+&lt;p&gt;虽然比移动好一点，但是黑乎乎那个气势不小，经常挑战我的回答，有时候甚至有些不礼貌。幸亏最后不知怎么有突然变好了些。&lt;/p&gt;
+
+&lt;p&gt;海康给我印象很深的是他的面试室，居然像蜂巢一样的有无数间。&lt;/p&gt;
+
+&lt;p&gt;另一件值得记述的事是那个黑脸的面试官提到中国的政府是世界上最有钱的政府，他笑道，国外的政府都是很穷的。&lt;/p&gt;
+
+&lt;p&gt;还有一件事，海康在当今时代居然还要面试者自带简历，并且在我提前告知HR后他们居然也不打印？这个够奇葩。笔也没有，我当时问了一个面试的大学实习生借，后来他先去面了，我执意要还给他但是他最后一直说送给我吧，也是缘分，我也就欣然接纳了。&lt;/p&gt;
+
+&lt;p&gt;第二家是叫贯通科技。给我的第一印象非常不好。他们的办公环境倒还不错，感觉人不多但是位子挺大。空调也像诺基亚一样给力。但是那个面试官那个吊炸天的傲人其实让我不爽，有个人叫住他他很不礼貌的跟他说了几句。我感觉这人很没素养。
+但后来才知道为什么他敢这么屌，因为他是这里的技术总监。他的技术可能确实不错。就一直碾压我，几乎把我虐的一个问题都没法回答。不知道是故意挑的冷门问题还是什么。总之感到有些炫技。到后来估计他也有点觉得我没法回答不好意思，所以就问我是不是c++熟悉一点，然后就开始问我c++，问的又是非常偏门的问题，但是每当我说到ace的时候他都绕过去，说明他并不是很懂。我都回答的无语，他乐此不疲，几次在某个场景下让我选择熟悉哪一块，好像让我感觉他什么领域都很精通似的。不过总的来说这人技术是还不错，我感觉的出来，但是挑冷门的问题问是他面试的一个失败，这大概是一个纯粹的技术控。后来又聊业务，我聊的很溜，他对我说的室内定位感兴趣。后来他问我愿不愿意做测试，我斡旋了一下，不置可否。他给了我两条路，说另一个部门缺少室内定位的人才，然后他们部门缺个测试，他说两个都帮我联系一下。结果只来了测试，言语里得出他之前去支付宝当过外包的信息。我就放心了，这人不够成压力和威胁，他也比较谦虚和和善。但是我就假装对测试还有兴趣。&lt;/p&gt;
+
+&lt;p&gt;又流水了一下。&lt;br /&gt;
+晚上查了一下白天被虐的几乎所有问题，发现也就那样，并不难理解。所以我认识到他们面试策略的失败。他们这样只能招到面试题做的好的人，极难招到真正的人才。&lt;/p&gt;
+
+&lt;p&gt;我今天思考到这个问题，想到一种可能性。即，仿佛他们，面试官们，默默地去做这些事情，就是为了满足自己内心的一种虚假的责任感，即逃避一种真正的责任。这种责任就是找到真正的人才。那么昨晚有眼光有魄力的伯乐，为了找到好的人才是敢于摒弃一起束缚和传统观念的，他相信自己眼光并且敢于为自己做的决定负责。但是一般面试官也许有一定眼光，但是他们不敢承担选错的责任，所以只好按照条框来选人，他们不信任自己或者他们本身没有才华或眼光，所以他们只好做套娃式的面试，即答出某某某问题就代表他行，否则就不太行。这样几遍选错了，他们也可以交代，或者说有逃避的借口，即当时题目他都答出了呀。而不必承担自己选进了一个经验不丰富的但觉得他很有潜力的人之后带来的被领导数落的风险。&lt;/p&gt;
+
+&lt;p&gt;这就是我的分析。我知道大部分人没有这种明意识。但我觉得有一部分人正受着这种潜意识的影响，这背后是有人类心理学可循的。&lt;/p&gt;
+
+&lt;p&gt;下午居然收到百度的电话 还以为百度要面试我&lt;br /&gt;
+结果得知是我的个人网站不知怎么的被他们扫到了&lt;br /&gt;
+说有我的电话，问我要不要推广。&lt;br /&gt;
+太厉害了，这才几天啊。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;今天遇到的面试问题&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;BIO与NIO什么区别？
+C++多重继承如何解决冲突问题？
+Linux线程有哪几种？
+C++多态通过什么实现？
+虚函数表在什么时候生成？
+Spring有哪几种注入方式？
+知道哪几种涉及模式，具体介绍一种？
+观察者模式主要特点是什么，主要用在哪些地方？
+数据库索引有哪些缺点？
+索引是怎么实现的？
+C++锁怎么用？
+C++的锁在哪里释放比较好？
+Vector、List什么区别？
+Bean的类型有哪些？除了 Singleton，还有 prototype
+Java的内存模型是怎么设计的？
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">今天面了两家公司 第一家勉强撑过去，第二家被那个所谓技术总监虐的很惨</summary></entry><entry><title type="html">前端书籍推荐</title><link href="http://localhost:4000/front-end/2018/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="前端书籍推荐" /><published>2018-05-12T23:26:07+08:00</published><updated>2018-05-12T23:26:07+08:00</updated><id>http://localhost:4000/front-end/2018/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/front-end/2018/05/12/welcome-to-jekyll.html">&lt;p&gt;以下是我从各大网站精心搜罗筛选，得到的几部前端工程师的极优秀书籍。包含入门级和进阶级的。但大部分书都是适合初学者使用（我一直相信一部伟大的书是能够让一个有心的初学者看懂并深入的）。我希望以后写几篇这样的文章，涵盖前后端以及C++、Go等各大语言、技术的全面书籍，做到这个书单能够作为一个路径图，看完这些书，有灵性者能够全面成长为一个优秀的工程师。所以所选书籍必须是优选中的优选，是真正伟大的书，历经考验的书。也是各界泰斗和创意精英新秀的书。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -20,7 +93,7 @@
     &lt;p&gt;&lt;strong&gt;《锋利的JQuery》&lt;/strong&gt;by &lt;code class=&quot;highlighter-rouge&quot;&gt;单东林 张晓菲 魏然&lt;/code&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;《图解HTTP》&lt;/strong&gt; by &lt;code class=&quot;highlighter-rouge&quot;&gt;上野宣&lt;/code&gt; (很形象，学起来较为轻松。书本比较小，很方便拿着，也会使你很想时长拿起来看看)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;《图解HTTP》&lt;/strong&gt; by &lt;code class=&quot;highlighter-rouge&quot;&gt;上野宣&lt;/code&gt; (很形象，学起来较为轻松。书本比较小，很方便拿着，也会使你很想时常拿起来看看)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -36,7 +109,7 @@
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;你个人的项目，应该有四分之一会失败，否则就说明你的冒险精神不够。&quot;
 
 (Expect and hope that a quarter of your projects fail. If not, you're not taking enough risks.
- --Adam Smith)
+--Adam Smith)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;我心里一动，心想这些天，我是不是把个人的失败看得太重了？&lt;/p&gt;
@@ -78,7 +151,7 @@
 
 &lt;p&gt;读到最后一句话，我的心豁然开朗。这个夏天挥之不去的一些烦恼，顿时平静了。&lt;/p&gt;
 
-&lt;p&gt;丘吉尔说过，”所谓成功，就是不停地经历失败，并且始终保持热情。”（Success is going from failure to failure without losing enthusiasm.）一次又一次地被拒绝，是你的勇气和进取心的最好证明。它们决定了你可以走多远，把你和那些决心放弃的人拉开差距。&lt;/p&gt;
+&lt;p&gt;丘吉尔说过，&lt;strong&gt;“所谓成功，就是不停地经历失败，并且始终保持热情。”（Success is going from failure to failure without losing enthusiasm.）&lt;/strong&gt;一次又一次地被拒绝，是你的勇气和进取心的最好证明。它们决定了你可以走多远，把你和那些决心放弃的人拉开差距。&lt;/p&gt;
 
 &lt;p&gt;所以，不要害怕被拒绝，这其实是对你的肯定和褒扬。&lt;/p&gt;
 
@@ -251,8 +324,8 @@
 &lt;center&gt;猫王&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;
-记得&lt;a href=&quot;https://baike.baidu.com/item/%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF%C2%B7%E6%99%AE%E9%9B%B7%E6%96%AF%E5%88%A9/2635188?fr=aladdin&quot;&gt;猫王&lt;/a&gt;唱过一首歌，叫做&lt;code class=&quot;highlighter-rouge&quot;&gt;《Welcome to My World》&lt;/code&gt;。
-这首歌我耳熟能详，我尤其喜欢它的现场版，由杰出的年轻&lt;a href=&quot;https://en.wikipedia.org/wiki/James_Burton&quot;&gt;James Burton&lt;/a&gt;伴奏。&lt;br /&gt;
+记得[猫王][elvis-presley]唱过一首歌，叫做&lt;code class=&quot;highlighter-rouge&quot;&gt;《Welcome to My World》&lt;/code&gt;。
+这首歌我耳熟能详，我尤其喜欢它的现场版，由杰出的年轻[James Burton][james-burton]伴奏。&lt;br /&gt;
 歌词也好，唱法也好，现场的氛围也好，James的演奏也好，都让我十分感动。&lt;br /&gt;
 感动的想起往事，想起童年，恋旧起来，怀念起来，沉浸在其中。&lt;br /&gt;
 这种一种特殊的情感，这是一种很奇妙的组合，它来源于一个歌手，一个乐队，一个场合，一场奇妙的配合。
@@ -264,7 +337,16 @@
 旋律好，歌词好，吉他好，唱的更好。猫王那浑厚清澈的嗓音，真是无人能出其右。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/elvis-james.jpg&quot; alt=&quot;James&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;Elvis Presley（左），James Burton（右）&lt;/center&gt;</content><author><name>石曙光</name></author><summary type="html">猫王</summary></entry><entry><title type="html">你好，世界</title><link href="http://localhost:4000/jekyll/2018/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="你好，世界" /><published>2018-05-10T19:01:07+08:00</published><updated>2018-05-10T19:01:07+08:00</updated><id>http://localhost:4000/jekyll/2018/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2018/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;center&gt;Elvis Presley（左），James Burton（右）&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;audio src=&quot;/assets/music/Welcome%20to%20My%20World-Elvis%20Presley.mp3&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+[elvis-presley]: https://baike.baidu.com/item/%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF%C2%B7%E6%99%AE%E9%9B%B7%E6%96%AF%E5%88%A9/2635188?fr=aladdin
+
+
+[james-burton]: https://en.wikipedia.org/wiki/James_Burton
+
+&lt;/audio&gt;</content><author><name>石曙光</name></author><summary type="html">猫王</summary></entry><entry><title type="html">你好，世界</title><link href="http://localhost:4000/jekyll/2018/05/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="你好，世界" /><published>2018-05-10T19:01:07+08:00</published><updated>2018-05-10T19:01:07+08:00</updated><id>http://localhost:4000/jekyll/2018/05/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2018/05/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 

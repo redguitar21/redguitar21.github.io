@@ -5,6 +5,7 @@ date:   2018-05-10 23:59:00 +0800
 categories: life
 author: 石曙光
 ---
+
 ![image]({{ site.url }}/assets/images/elvis-1.jpg)
 <center>猫王</center>
 
@@ -28,7 +29,10 @@ author: 石曙光
 ![James]({{ site.url }}/assets/images/elvis-james.jpg)
 <center>Elvis Presley（左），James Burton（右）</center>
 
-
+<br>
+<audio src="/assets/music/Welcome%20to%20My%20World-Elvis%20Presley.mp3" controls autoplay loop>
 [elvis-presley]: https://baike.baidu.com/item/%E5%9F%83%E5%B0%94%E7%BB%B4%E6%96%AF%C2%B7%E6%99%AE%E9%9B%B7%E6%96%AF%E5%88%A9/2635188?fr=aladdin
+
+
 [james-burton]: https://en.wikipedia.org/wiki/James_Burton
 
