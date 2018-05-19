@@ -11,13 +11,13 @@ categories: life
 
 --- 
 
-昨天，先是看到一个老外，说了一句很震撼的话。
+昨天，先是看到一个老外，说了一句很震撼的话。  
 
 
-    "你个人的项目，应该有四分之一会失败，否则就说明你的冒险精神不够。"
+    "你个人的项目，应该有四分之一会失败，否则就说明你的冒险精神不够。"    
 
-    (Expect and hope that a quarter of your projects fail. If not, you're not taking enough risks.
-    --Adam Smith)
+    (Expect and hope that a quarter of your projects fail. If not, you're not taking enough risks.   
+    --Adam Smith)   
 
 
 

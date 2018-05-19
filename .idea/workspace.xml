@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64231ca6-1903-4450-b62b-57a33e50bbbf" name="Default" comment="navigation adjust">
-      <change afterPath="$PROJECT_DIR$/_posts/life/2018-05-16-summer-wind-feel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/life/2018-5-14-interview-thought2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/life/2018-5-15-interview-thought3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/music/Welcome to My World-Elvis Presley.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redguitar/css/layout2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redguitar/resources/01 The Thrill Is Gone.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redguitar/resources/She‘s So Cold.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redguitar/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redguitar/css/color.css" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/css/color.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redguitar/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redguitar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redguitar/live.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/live.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redguitar/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/photos.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,35 +29,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="2018-05-10-welcome-to-my-world.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redguitar/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="704">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-05-16-summer-wind-feel.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-16-summer-wind-feel.md">
+      <file leaf-file-name="live.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redguitar/live.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redguitar/photos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1229">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redguitar/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="657">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redguitar/scripts/about.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="2018-05-12-failed-but-win.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redguitar/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="701">
+              <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
+      <file leaf-file-name="color.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redguitar/css/color.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+            <state relative-caret-position="811">
+              <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -80,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles/style1.css" />
         <option value="$PROJECT_DIR$/scripts/displayAbbr.js" />
         <option value="$PROJECT_DIR$/DomChangeColor.xhtml" />
         <option value="$PROJECT_DIR$/scripts/changeColor.js" />
@@ -126,6 +157,12 @@
         <option value="$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world2.html" />
         <option value="$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown" />
         <option value="$PROJECT_DIR$/_site/assets/main.css" />
+        <option value="$PROJECT_DIR$/redguitar/css/color.css" />
+        <option value="$PROJECT_DIR$/redguitar/photos.html" />
+        <option value="$PROJECT_DIR$/redguitar/css/layout.css" />
+        <option value="$PROJECT_DIR$/redguitar/index.html" />
+        <option value="$PROJECT_DIR$/redguitar/about.html" />
+        <option value="$PROJECT_DIR$/redguitar/live.html" />
       </list>
     </option>
   </component>
@@ -138,7 +175,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1392" />
     <option name="y" value="342" />
     <option name="width" value="2100" />
@@ -174,17 +211,6 @@
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,6 +218,17 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="redguitar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="redguitar" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,14 +247,17 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\javascript_code\test\assets\css" />
-      <recent name="F:\javascript_code\test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\javascript_code\test\styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\javascript_code\test\redguitar\resources" />
+      <recent name="F:\javascript_code\test\redguitar\css" />
+      <recent name="F:\javascript_code\test\assets\css" />
+      <recent name="F:\javascript_code\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,6 +320,7 @@
       <workItem from="1525932910465" duration="7023000" />
       <workItem from="1526040293617" duration="3000" />
       <workItem from="1526607187853" duration="2011000" />
+      <workItem from="1526739886964" duration="7169000" />
     </task>
     <task id="LOCAL-00001" summary="navigation adjust">
       <created>1525109648271</created>
@@ -299,12 +340,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59015000" />
+    <option name="totallyTimeSpent" value="66184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="928" y="228" width="1400" height="1000" extended-state="0" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13510348" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -399,14 +441,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-hello-world.html" />
-    <entry file="file://$PROJECT_DIR$/test.xhtml" />
-    <entry file="file://$PROJECT_DIR$/styles/style1.css" />
-    <entry file="file://$PROJECT_DIR$/scripts/displayAbbr.js" />
-    <entry file="file://$PROJECT_DIR$/DomChangeColor.xhtml" />
-    <entry file="file://$PROJECT_DIR$/scripts/displayAbbr.js" />
     <entry file="file://$PROJECT_DIR$/Table.xhtml" />
     <entry file="file://$PROJECT_DIR$/scripts/stripeTables.js" />
     <entry file="file://$PROJECT_DIR$/scripts/changeColor.js" />
@@ -456,37 +490,103 @@
     <entry file="file://$PROJECT_DIR$/_layouts/default.html" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-hello-world.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/life/22.html">
+    <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world2.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4071">
+          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/css/layout2.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world2.html">
+    <entry file="file://$PROJECT_DIR$/redguitar/css/typography.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/scripts/band.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="96" />
+        <state relative-caret-position="330">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/css/color.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/photos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/scripts/about.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redguitar/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="704">
+            <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="96" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-16-summer-wind-feel.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
+    <entry file="file://$PROJECT_DIR$/redguitar/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+        <state relative-caret-position="704">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md">
+    <entry file="file://$PROJECT_DIR$/redguitar/live.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="572">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>

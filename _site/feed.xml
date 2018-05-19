@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-18T10:40:22+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">幸福的感觉</title><link href="http://localhost:4000/life/2018/05/15/summer-wind-feel.html" rel="alternate" type="text/html" title="幸福的感觉" /><published>2018-05-15T16:54:00+08:00</published><updated>2018-05-15T16:54:00+08:00</updated><id>http://localhost:4000/life/2018/05/15/summer-wind-feel</id><content type="html" xml:base="http://localhost:4000/life/2018/05/15/summer-wind-feel.html">&lt;p&gt;夏天&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-18T10:56:46+08:00</updated><id>http://localhost:4000/</id><title type="html">石曙光的个人网站</title><subtitle>记录我的生活、点滴感想与学习成长, 用五年时间，循序渐进，逐步精进。</subtitle><entry><title type="html">幸福的感觉</title><link href="http://localhost:4000/life/2018/05/15/summer-wind-feel.html" rel="alternate" type="text/html" title="幸福的感觉" /><published>2018-05-15T16:54:00+08:00</published><updated>2018-05-15T16:54:00+08:00</updated><id>http://localhost:4000/life/2018/05/15/summer-wind-feel</id><content type="html" xml:base="http://localhost:4000/life/2018/05/15/summer-wind-feel.html">&lt;p&gt;夏天&lt;br /&gt;
 裸露的手臂和腿在自然凉爽的风或者是空调加电风扇的作用下，&lt;br /&gt;
 会产生一种奇异的跨世纪（跨世代）的感觉，&lt;br /&gt;
 也许是因为我的童年是上个世纪。&lt;/p&gt;
@@ -106,10 +106,10 @@ Java的内存模型是怎么设计的？
 
 &lt;p&gt;昨天，先是看到一个老外，说了一句很震撼的话。&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;你个人的项目，应该有四分之一会失败，否则就说明你的冒险精神不够。&quot;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;你个人的项目，应该有四分之一会失败，否则就说明你的冒险精神不够。&quot;    
 
-(Expect and hope that a quarter of your projects fail. If not, you're not taking enough risks.
---Adam Smith)
+(Expect and hope that a quarter of your projects fail. If not, you're not taking enough risks.   
+--Adam Smith)   
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;我心里一动，心想这些天，我是不是把个人的失败看得太重了？&lt;/p&gt;
@@ -324,8 +324,8 @@ Java的内存模型是怎么设计的？
 &lt;center&gt;猫王&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;
-记得[猫王][elvis-presley]唱过一首歌，叫做&lt;code class=&quot;highlighter-rouge&quot;&gt;《Welcome to My World》&lt;/code&gt;。
-这首歌我耳熟能详，我尤其喜欢它的现场版，由杰出的年轻[James Burton][james-burton]伴奏。&lt;br /&gt;
+记得&lt;code class=&quot;highlighter-rouge&quot;&gt;猫王&lt;/code&gt;唱过一首歌，叫做&lt;code class=&quot;highlighter-rouge&quot;&gt;《Welcome to My World》&lt;/code&gt;。
+这首歌我耳熟能详，我尤其喜欢它的现场版，由杰出的年轻&lt;code class=&quot;highlighter-rouge&quot;&gt;James Burton&lt;/code&gt;伴奏。&lt;br /&gt;
 歌词也好，唱法也好，现场的氛围也好，James的演奏也好，都让我十分感动。&lt;br /&gt;
 感动的想起往事，想起童年，恋旧起来，怀念起来，沉浸在其中。&lt;br /&gt;
 这种一种特殊的情感，这是一种很奇妙的组合，它来源于一个歌手，一个乐队，一个场合，一场奇妙的配合。

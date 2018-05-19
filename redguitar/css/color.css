@@ -52,8 +52,8 @@ a:active {
 }
 
 #navigation a:hover {
-    color: #445;
-    background-color: #eb6;
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.15);
 }
 
 #navigation a:active {

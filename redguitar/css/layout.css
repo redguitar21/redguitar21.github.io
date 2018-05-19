@@ -19,32 +19,28 @@ body {
 }
 
 #navigation {
-    background-image: url("../images/navi.gif");
-    background-repeat: repeat;
-    background-position: bottom left;
-    border-width: .1em;
-    border-style: solid;
-    border-bottom-width: 0;
-    border-top-width: 0;
     padding-left: 10%;
 }
 
 #navigation ul {
-    width: 100%;
+
     overflow: hidden;
-    border-style: solid;
-    border-left-width: 0.1em;
+
 }
 
 #navigation li {
-    display: inline;
+    float: left;
+    display: block;
+    padding: .5em 2em;
+    font-weight: bold;
 }
 
-#navigation li a {
-    display: block;
-    float: left;
-    padding: .5em 3em;
-    border-right: .1em solid;
+#navigation li a{
+    padding: .5em 2.3em;
+    color: rgba(255,255,255,0.7);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
 }
 
 #content {
@@ -93,5 +89,23 @@ body {
 }
 
 #photos #photolist li {
+    float: left;
+    padding: 3px;
+    border: 1px solid #ddd;
+    list-style: none;
     display: inline;
+}
+
+#photos #photolist li :hover {
+    transform: scale(1.2) rotate(-8deg);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease-in-out;
+}
+
+#placeholder {
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+#description {
+    font-weight: bold;
 }
