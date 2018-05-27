@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64231ca6-1903-4450-b62b-57a33e50bbbf" name="Default" comment="navigation adjust">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redguitar/css/layout2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redguitar/resources/01 The Thrill Is Gone.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redguitar/resources/She‘s So Cold.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2018-05-10-welcome-to-my-world.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2018-05-12-failed-but-win.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redguitar/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redguitar/css/color.css" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/css/color.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redguitar/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redguitar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redguitar/live.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/live.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redguitar/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/redguitar/photos.html" afterDir="false" />
-    </list>
+    <list default="true" id="64231ca6-1903-4450-b62b-57a33e50bbbf" name="Default" comment="navigation adjust" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -320,7 +304,7 @@
       <workItem from="1525932910465" duration="7023000" />
       <workItem from="1526040293617" duration="3000" />
       <workItem from="1526607187853" duration="2011000" />
-      <workItem from="1526739886964" duration="7169000" />
+      <workItem from="1526739886964" duration="7446000" />
     </task>
     <task id="LOCAL-00001" summary="navigation adjust">
       <created>1525109648271</created>
@@ -340,7 +324,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66184000" />
+    <option name="totallyTimeSpent" value="66461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
